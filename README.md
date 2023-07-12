@@ -152,4 +152,8 @@ int getLives(void);         //Gets the remaining lives
 
 ```
 
+## Game Screenshots
+
+![start_game](https://github.com/elif-t/Mario_OOP_sfml/blob/main/start_game_mario.jpeg)
+![mario_and_turtles](https://github.com/elif-t/Mario_OOP_sfml/blob/main/turtles_and_mario.jpeg)
 
